@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c1",
+    "channel": "hotline",
+    "start": "2026-10-01",
+    "end": "2026-11-01",
+    "available": true
+  },
+  {
+    "id": "c2",
+    "channel": "book",
+    "start": "2026-10-01",
+    "end": "2026-10-08",
+    "available": false
+  }
+]

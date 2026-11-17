@@ -1,0 +1,46 @@
+[
+  {
+    "id": "h1",
+    "channel": "hotline",
+    "issue": "k1",
+    "date": "2026-10-02",
+    "site": "east",
+    "service": "meal",
+    "contact": "t1",
+    "anonymous": false,
+    "status": "open"
+  },
+  {
+    "id": "b1",
+    "channel": "book",
+    "issue": "k1",
+    "date": "2026-10-03",
+    "site": "east",
+    "service": "meal",
+    "contact": "t1",
+    "anonymous": false,
+    "status": "open"
+  },
+  {
+    "id": "a1",
+    "channel": "survey",
+    "issue": null,
+    "date": "2026-10-03",
+    "site": "east",
+    "service": "meal",
+    "contact": null,
+    "anonymous": true,
+    "status": "open"
+  },
+  {
+    "id": "h2",
+    "channel": "hotline",
+    "issue": "k2",
+    "date": "2026-10-03",
+    "site": "west",
+    "service": "bathing",
+    "contact": "t2",
+    "anonymous": false,
+    "status": "closed"
+  }
+]

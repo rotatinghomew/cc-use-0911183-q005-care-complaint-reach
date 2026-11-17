@@ -1,0 +1,6 @@
+[project]
+name = "care-complaint-reach"
+version = "0.1.0"
+description = "多渠道诉求漏报估计与回访证据的联动分析的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]

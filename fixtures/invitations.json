@@ -1,0 +1,14 @@
+[
+  {
+    "id": "i1",
+    "person": "p1",
+    "purpose": "issue_followup",
+    "probability": null
+  },
+  {
+    "id": "i2",
+    "person": "p4",
+    "purpose": "coverage_survey",
+    "probability": 0.5
+  }
+]

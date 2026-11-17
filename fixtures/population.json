@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "site": "east",
+    "contact": "t1",
+    "consent": true
+  },
+  {
+    "id": "p2",
+    "site": "west",
+    "contact": "t2",
+    "consent": true
+  },
+  {
+    "id": "p3",
+    "site": "east",
+    "contact": "t3",
+    "consent": false
+  },
+  {
+    "id": "p4",
+    "site": "west",
+    "contact": "t4",
+    "consent": true
+  }
+]
